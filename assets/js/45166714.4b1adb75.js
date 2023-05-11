@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[579],{2455:e=>{e.exports=JSON.parse('{"label":"implementation","permalink":"/tags/implementation","allTagsPath":"/tags","count":1,"items":[{"id":"core/admin/ee/review-workflows","title":"Review Workflows","description":"Review workflow technical design","permalink":"/admin/ee/review-workflows"}]}')}}]);
